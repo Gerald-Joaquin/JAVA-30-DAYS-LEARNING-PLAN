@@ -1,0 +1,119 @@
+ Day 1: Introduction to Java
+- Task: Set up your Java development environment (JDK, IDE).
+- Challenge: Write a "Hello, World!" program.
+
+Day 2: Variables and Data Types
+- Task: Learn about primitive data types (int, char, boolean, etc.).
+- Challenge: Create variables and print them.
+
+Day 3: Operators
+- Task: Learn about arithmetic, relational, and logical operators.
+- Challenge: Write a program using operators to perform arithmetic calculations.
+
+Day 4: Conditional Statements
+- Task: Understand `if`, `else if`, and `else` statements.
+- Challenge: Create a program that checks if a number is even or odd.
+
+Day 5: Switch Statement
+- Task: Learn the `switch` statement.
+- Challenge: Write a program to print the day of the week based on a number input.
+
+Day 6: Loops - `for`
+- Task: Learn about `for` loops.
+- Challenge: Print numbers 1 to 10 using a `for` loop.
+
+Day 7: Loops - `while` and `do-while`
+- Task: Understand `while` and `do-while` loops.
+- Challenge: Write a program to print numbers 1 to 10 using both types of loops.
+
+Day 8: Arrays
+- Task: Learn to work with arrays.
+- Challenge: Create an array and print all its elements.
+
+ Day 9: Multidimensional Arrays
+- Task: Learn about two-dimensional arrays.
+- Challenge: Create a 2D array and print its elements.
+
+Day 10: Methods
+- Task: Learn how to define and call methods.
+- Challenge: Write a method to calculate the sum of two numbers.
+
+Day 11: Method Overloading
+- Task: Understand method overloading.
+- Challenge: Create overloaded methods that calculate the sum of two or three numbers.
+
+Day 12: Classes and Objects
+- Task: Understand classes and objects.
+- Challenge: Create a simple class with attributes and methods.
+
+ Day 13: Constructors
+- Task: Learn about constructors.
+- Challenge: Create a class with a constructor and instantiate objects.
+
+Day 14: Inheritance
+- Task: Learn about inheritance and `extends`.
+- Challenge: Create a subclass that inherits from a parent class.
+
+Day 15: Method Overriding
+- Task: Understand method overriding.
+- Challenge: Override a method in the subclass.
+
+Day 16: Polymorphism
+- Task: Understand the concept of polymorphism.
+- Challenge: Demonstrate polymorphism using method overriding.
+
+Day 17: Encapsulation
+- Task: Learn about encapsulation (private, public, protected).
+- Challenge: Create a class with private attributes and public getter/setter methods.
+
+Day 18: Abstraction
+- Task: Learn about abstract classes and methods.
+- Challenge: Create an abstract class and a subclass that implements the abstract method.
+
+Day 19: Interfaces
+- task: Understand interfaces.
+- Challenge: Create an interface and a class that implements it.
+
+Day 20: Exception Handling
+- Task: Learn try-catch blocks for exception handling.
+- Challenge: Write a program that handles divide-by-zero exceptions.
+
+Day 21: File I/O
+- Task: Learn how to read and write files.
+- Challenge: Create a program that writes to and reads from a text file.
+
+Day 22: String Manipulation
+- Task: Learn how to manipulate strings (concatenate, split, etc.).
+- Challenge: Write a program to reverse a string.
+
+Day 23: Collections - ArrayList
+- Task: Learn about `ArrayList`.
+- Challenge: Create an `ArrayList` of integers and sort it.
+
+Day 24: Collections - HashMap
+- Task: Understand `HashMap`.
+- Challenge: Create a `HashMap` to store key-value pairs and print them.
+
+Day 25: Generics
+- Task: Learn about generics.
+- Challenge: Write a program that uses a generic class.
+
+Day 26: Lambda Expressions
+- Task: Learn about lambda expressions in Java.
+- Challenge: Use a lambda expression to sort a list of numbers.
+
+Day 27: Streams API
+- Task: Learn how to use Java Streams.
+- Challenge: Use streams to filter and sort a list.
+
+Day 28: Java 8 Features
+- Task: Dive into Java 8 features like default methods and functional interfaces.
+- Challenge: Use a functional interface with a lambda expression.
+
+Day 29: Java Memory Management
+- Task: Learn about memory management in Java (garbage collection).
+- Challenge: Write a program to demonstrate memory allocation.
+
+Day 30: Project Day
+- Task: Combine everything you've learned in a final project.
+- Challenge: Create a simple Java application (e.g., a to-do list app).
