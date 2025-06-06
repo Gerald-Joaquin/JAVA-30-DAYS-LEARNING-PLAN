@@ -18,11 +18,11 @@
 - Task: Learn the `switch` statement.
 - Challenge: Write a program to print the day of the week based on a number input.
 
-Day 6: Loops - `for`
+✔️ Day 6: Loops - `for`
 - Task: Learn about `for` loops.
 - Challenge: Print numbers 1 to 10 using a `for` loop.
 
-Day 7: Loops - `while` and `do-while`
+✔️ Day 7: Loops - `while` and `do-while`
 - Task: Understand `while` and `do-while` loops.
 - Challenge: Write a program to print numbers 1 to 10 using both types of loops.
 
